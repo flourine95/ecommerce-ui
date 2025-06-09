@@ -1,0 +1,5 @@
+.gitignore text eol=lf
+
+*.txt text eol=crlf
+
+* text=auto
